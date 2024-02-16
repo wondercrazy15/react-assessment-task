@@ -1,0 +1,8 @@
+export { ReactComponent as HomeIcon } from "./Home.svg"
+export { ReactComponent as MessageIcon } from "./Messages.svg"
+export { ReactComponent as NotificationIcon } from "./Bell.svg"
+export { ReactComponent as PlusIcon } from "./Plus.svg"
+export { ReactComponent as EditIcon } from "./edit.svg"
+export { ReactComponent as TrashIcon } from "./trash.svg"
+export { ReactComponent as SearchIcon } from "./Search.svg"
+export { ReactComponent as FilterIcon } from "./Filter.svg"

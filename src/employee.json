@@ -1,0 +1,74 @@
+{
+    "employees":[
+       {
+          "employeeCode":"E1000001",
+          "empName":"John",
+          "jobTitleName":"Frontend Developer",
+          "emailAddress":"fe@gmail.com",
+          "status": "Active"
+       },
+       {
+          "employeeCode":"E1000002",
+          "empName":"Smith",
+          "jobTitleName":"Backend Developer",
+          "emailAddress":"be@gmail.com",
+          "status": "InActive"
+       },
+       {
+          "employeeCode":"E1000003",
+          "empName":"Alex",
+          "jobTitleName":"FullStack Developer",
+          "emailAddress":"fs@gmail.com",
+          "status": "Active"
+       },
+       {
+         "employeeCode":"E1000004",
+         "empName":"Michael",
+         "jobTitleName":"Frontend Developer",
+         "emailAddress":"mc@gmail.com",
+         "status": "InActive"
+      },
+      {
+         "employeeCode":"E1000005",
+         "empName":"Robot",
+         "jobTitleName":"FullStack Developer",
+         "emailAddress":"ro@gmail.com",
+         "status": "InActive"
+      },
+      {
+         "employeeCode":"E1000006",
+         "empName":"Prince",
+         "jobTitleName":"Developer",
+         "emailAddress":"pr@gmail.com",
+         "status": "Active"
+      },
+      {
+         "employeeCode":"E1000007",
+         "empName":"Alvish",
+         "jobTitleName":"Frontend Developer",
+         "emailAddress":"al@gmail.com",
+         "status": "InActive"
+      },
+      {
+         "employeeCode":"E1000008",
+         "empName":"James",
+         "jobTitleName":"FullStack Developer",
+         "emailAddress":"ja@gmail.com",
+         "status": "Active"
+      },
+      {
+         "employeeCode":"E1000009",
+         "empName":"Kevin",
+         "jobTitleName":"Backend Developer",
+         "emailAddress":"kv@gmail.com",
+         "status": "InActive"
+      },
+      {
+         "employeeCode":"E1000010",
+         "empName":"Thomas",
+         "jobTitleName":"Backend Developer",
+         "emailAddress":"th@gmail.com",
+         "status": "Active"
+      }
+    ]
+ }
